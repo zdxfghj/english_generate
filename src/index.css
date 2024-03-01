@@ -11,3 +11,47 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.container {
+  max-width: 1000px;
+  margin: 100px auto;
+  background-color: #fff;
+  padding: 50px;
+}
+
+
+.btn {
+  display: inline-block;
+  background-color: transparent;
+  border: 1px solid transparent;
+  border-radius: 0;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  padding: .5em;
+  
+}
+
+.btn-random {
+  background-color: #f00;
+  color: #fff;
+  font-size: 18px;
+}
+
+.btn-translate{
+  background-color: rgb(48, 207, 42);
+  color: #fff;
+  font-size: 18px;
+  margin-left: 20px;
+}
+
+.btn-select_some{
+  background-color: rgb(111, 53, 219);
+  color: #fff;
+  font-size: 18px;
+  margin-left: 20px;
+}
+
+.m-y {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
